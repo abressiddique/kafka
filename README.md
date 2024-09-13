@@ -6,7 +6,8 @@ consumer
 partition
 topics
 
-3rd semister in big data anlaytics 
+3rd semister in big data anlaytics
+its cool bruhhhh
 
 
 
