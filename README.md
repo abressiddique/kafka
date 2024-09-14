@@ -6,6 +6,12 @@
 
 This project includes scripts for starting a Kafka producer and consumer, as well as a basic setup for compiling TypeScript and running the Node.js applications.
 
+## Kafka Architecture
+
+Here is a diagram illustrating the basic architecture of Apache Kafka:
+
+![Kafka Architecture](docs/kafka-architecture.png)
+
 ## Project Setup
 
 To set up and run the project locally, follow these steps:
